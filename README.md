@@ -1,14 +1,14 @@
-Netflix Clone - HTML & CSS Project
+#Netflix Clone - HTML & CSS Project
 A simple Netflix Pakistan homepage clone built with HTML and CSS. This project mimics the Netflix landing page, featuring sections like hero banners, TV shows, FAQs, and a footer.
 
-🚀 Features
+ #🚀 Features
 ✅ Responsive Netflix-like UI
 ✅ Hero section with email signup
 ✅ Four content sections (TV, Mobile, Everywhere, Kids)
 ✅ FAQ accordion-style dropdowns
 ✅ Footer with navigation links
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 HTML5
 
 CSS3
@@ -23,7 +23,7 @@ git clone https://github.com/your-username/netflix-clone.git
 cd netflix-clone
 Open index.html in a browser
 
-🌐 Deploy on Vercel (Free)
+#🌐 Deploy on Vercel (Free)
 Push the project to GitHub.
 
 Sign up on Vercel.
@@ -32,7 +32,7 @@ Click "New Project" → Import your GitHub repo.
 
 Deploy! (Vercel auto-detects HTML sites)
 
-📂 Project Structure
+#📂 Project Structure
 text
 netflix-clone/  
 ├── index.html          # Main HTML file  
@@ -42,7 +42,7 @@ netflix-clone/
 📜 License
 This project is for educational purposes only (no commercial use).
 
-Enjoy coding! 🎬🍿
+#Enjoy coding! 🎬🍿
 
 👉 Want to contribute? Fork & submit a PR!
 👉 Need help? Open an issue.
@@ -51,7 +51,4 @@ Enjoy coding! 🎬🍿
 
 Note: This is a frontend-only clone. No backend/auth functionality is included.
 
-🔗 Connect with Me
-GitHub | Twitter | Portfolio
-
-Made with ❤️ by Your Name
+Made with ❤️ by Your Wahaj
