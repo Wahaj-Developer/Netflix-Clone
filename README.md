@@ -23,7 +23,7 @@ git clone https://github.com/your-username/netflix-clone.git
 cd netflix-clone
 Open index.html in a browser
 
-# 🌐 Deploy on Vercel (Free)
+# 🌐 Deploy on Vercel (Free) or Netlify
 Push the project to GitHub.
 
 Sign up on Vercel.
@@ -47,7 +47,7 @@ This project is for educational purposes only (no commercial use).
 👉 Want to contribute? Fork & submit a PR!
 👉 Need help? Open an issue.
 
-🚀 Live Demo: https://netflix-clone.vercel.app (example link, replace with yours)
+🚀 Live Demo: https://wahaj-clone.netlify.app/
 
 Note: This is a frontend-only clone. No backend/auth functionality is included.
 
