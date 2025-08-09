@@ -47,7 +47,7 @@ This project is for educational purposes only (no commercial use).
 👉 Want to contribute? Fork & submit a PR!
 👉 Need help? Open an issue.
 
-🚀 Live Demo: https://wahaj-clone.netlify.app/
+🚀 Live Demo: https://wahaj-website.netlify.app/
 
 Note: This is a frontend-only clone. No backend/auth functionality is included.
 
